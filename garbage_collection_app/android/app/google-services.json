@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "614766643854",
+    "project_id": "garbagecollectioaapp",
+    "storage_bucket": "garbagecollectioaapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614766643854:android:24d78cf95d5fa0202297df",
+        "android_client_info": {
+          "package_name": "com.garbadge.collection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpDwR_U-4oNSh3UzzbSNB36o868Iz-mUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
